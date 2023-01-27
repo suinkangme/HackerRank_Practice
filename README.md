@@ -36,4 +36,19 @@
 | 14 | []() | [Solution]() | Easy | |
 | 15 | []() | [Solution]() | Easy | |
 | 16 | []() | [Solution]() | Easy | |
+| 17 | []() | [Solution]() | Easy | |
+| 18 | []() | [Solution]() | Easy | |
+| 19 | []() | [Solution]() | Easy | |
+| 20 | []() | [Solution]() | Easy | |
+| 21 | []() | [Solution]() | Easy | |
+| 22 | []() | [Solution]() | Easy | |
+| 23 | []() | [Solution]() | Easy | |
+| 24 | []() | [Solution]() | Easy | |
+| 25 | []() | [Solution]() | Easy | |
+| 26 | []() | [Solution]() | Easy | |
+| 27 | []() | [Solution]() | Easy | |
+| 28 | []() | [Solution]() | Easy | |
+| 29 | []() | [Solution]() | Easy | |
+| 30 | []() | [Solution]() | Easy | |
+
 
