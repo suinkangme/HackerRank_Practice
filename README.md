@@ -1,4 +1,7 @@
 
+<img src = "HackerRank.png">
+
+
 ## Solutions to HackerRank practice problems 📝
 
 
