@@ -26,8 +26,8 @@
 | 4 | [Select By ID](https://www.hackerrank.com/challenges/select-by-id/problem?isFullScreen=true) | [Solution](https://github.com/suinkangme/HackerRank_Practice/blob/main/SQL/4_Select%20By%20ID) | Easy | 10 |
 | 5 | [Weather Observation Station 6](https://www.hackerrank.com/challenges/weather-observation-station-6/problem?isFullScreen=true) | [Solution](https://github.com/suinkangme/HackerRank_Practice/blob/main/SQL/5_Weather%20Observation%20Station%206) | Easy | 10 |
 | 6 | [Weather Observation Station 12](https://www.hackerrank.com/challenges/weather-observation-station-12/problem?isFullScreen=true) | [Solution](https://github.com/suinkangme/HackerRank_Practice/blob/main/SQL/6_Weather%20Observation%20Station%2012) | Easy | 15 |
-| 7 | []() | [Solution]() | Easy | |
-| 8 | []() | [Solution]() | Easy | |
+| 7 | [Employee Names](https://www.hackerrank.com/challenges/name-of-employees/problem?isFullScreen=true) | [Solution](https://github.com/suinkangme/HackerRank_Practice/blob/main/SQL/7_Employee%20Names) | Easy | 10 |
+| 8 | [Employee Salaries](https://www.hackerrank.com/challenges/salary-of-employees/problem?isFullScreen=true) | [Solution](https://github.com/suinkangme/HackerRank_Practice/blob/main/SQL/8_Employee%20Salaries) | Easy | 15 |
 | 9 | []() | [Solution]() | Easy | |
 | 10 | []() | [Solution]() | Easy | |
 | 11 | []() | [Solution]() | Easy | |
