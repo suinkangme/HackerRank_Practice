@@ -1,1 +1,1 @@
-# HackerRank_Practice
+# Solutions to HackerRank practice problems 
