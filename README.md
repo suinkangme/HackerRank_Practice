@@ -21,6 +21,6 @@
 | # | PROBLEM | SOLUTION | DIFFICULTY | SCORE |
 | --- | --- | --- | --- | --- |
 | 1 | [Select All](https://www.hackerrank.com/challenges/select-all-sql/problem) | [Solution](https://github.com/suinkangme/HackerRank_Practice/blob/main/SQL/1_Select%20All) | Easy | 10 |
-| 2 | [Weather Observation Station 1]() | [Solution]() | Easy | --- |
+| 2 | [Weather Observation Station 1](https://www.hackerrank.com/challenges/weather-observation-station-1/problem?isFullScreen=true) | [Solution]() | Easy | --- |
 
 
