@@ -17,6 +17,10 @@
 
 | SQL | PROBLEM | SOLUTION | SCORE |
 | --- | --- | --- | --- |
-| Select All | [problem](https://www.hackerrank.com/challenges/select-all-sql/problem) | --- | --- |
-| Weather Observation Station 1 | https://github.com/suinkangme | https://www.linkedin.com/in/suin-kang-b72b63203/ | --- |
+| Select All | [Problem](https://www.hackerrank.com/challenges/select-all-sql/problem) | [Solution]() | --- |
+| Weather Observation Station 1 | [Problem]() | [Solution]() | --- |
+| Weather Observation Station 1 | [Problem]() | [Solution]() | --- |
+| Weather Observation Station 1 | [Problem]() | [Solution]() | --- |
+| Weather Observation Station 1 | [Problem]() | [Solution]() | --- |
+
 
