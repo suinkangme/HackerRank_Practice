@@ -15,12 +15,9 @@
 
 ***
 
-| SQL | PROBLEM | SOLUTION | SCORE |
-| --- | --- | --- | --- |
-| Select All | [Problem](https://www.hackerrank.com/challenges/select-all-sql/problem) | [Solution]() | --- |
-| Weather Observation Station 1 | [Problem]() | [Solution]() | --- |
-| Weather Observation Station 1 | [Problem]() | [Solution]() | --- |
-| Weather Observation Station 1 | [Problem]() | [Solution]() | --- |
-| Weather Observation Station 1 | [Problem]() | [Solution]() | --- |
+| # | PROBLEM | SOLUTION | DIFFICULTY | SCORE |
+| --- | --- | --- | --- | --- |
+| 1 | [Select All](https://www.hackerrank.com/challenges/select-all-sql/problem) | [Solution]() | Easy | --- |
+| 2 | [Weather Observation Station 1]() | [Solution]() | Easy | --- |
 
 
