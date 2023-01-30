@@ -34,8 +34,8 @@
 | 12 | [Japanese Cities' Attributes](https://www.hackerrank.com/challenges/japanese-cities-attributes/problem?isFullScreen=true&h_r=next-challenge&h_v=zen) | [Solution](https://github.com/suinkangme/HackerRank_Practice/blob/main/SQL/12_Japanese%20Cities'%20Attributes.sql) | Easy | 10 |
 | 13 | [Japanese Cities' Names](https://www.hackerrank.com/challenges/japanese-cities-name/problem?isFullScreen=true) | [Solution](https://github.com/suinkangme/HackerRank_Practice/blob/main/SQL/13_Japanese%20Cities'%20Names.sql) | Easy | 10 |
 | 14 | [Weather Observation Station 3](https://www.hackerrank.com/challenges/weather-observation-station-3/problem?isFullScreen=true) | [Solution](https://github.com/suinkangme/HackerRank_Practice/blob/main/SQL/14_Weather%20Observation%20Station%203.sql) | Easy | 10 |
-| 15 | []() | [Solution]() | Easy | |
-| 16 | []() | [Solution]() | Easy | |
+| 15 | [Weather Observation Station 4](https://www.hackerrank.com/challenges/weather-observation-station-4/problem?isFullScreen=true) | [Solution](https://github.com/suinkangme/HackerRank_Practice/blob/main/SQL/15_Weather%20Observation%20Station%204.sql) | Easy | 10 |
+| 16 | [Weather Observation Station 5](https://www.hackerrank.com/challenges/weather-observation-station-5/problem?isFullScreen=true) | [Solution]() | Easy |  |
 | 17 | []() | [Solution]() | Easy | |
 | 18 | []() | [Solution]() | Easy | |
 | 19 | []() | [Solution]() | Easy | |
