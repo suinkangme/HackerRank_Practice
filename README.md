@@ -30,10 +30,10 @@
 | 8 | [Employee Salaries](https://www.hackerrank.com/challenges/salary-of-employees/problem?isFullScreen=true) | [Solution](https://github.com/suinkangme/HackerRank_Practice/blob/main/SQL/8_Employee%20Salaries) | Easy | 15 |
 | 9 | [Higher Than 75 Marks](https://www.hackerrank.com/challenges/more-than-75-marks/problem?isFullScreen=true) | [Solution](https://github.com/suinkangme/HackerRank_Practice/blob/main/SQL/9_Higher%20Than%2075%20Marks) | Easy | 15 |
 | 10 | [Weather Observation Station 15](https://www.hackerrank.com/challenges/weather-observation-station-15/problem?isFullScreen=true) | [Solution](https://github.com/suinkangme/HackerRank_Practice/blob/main/SQL/10_Weather%20Observation%20Station%2015.sql) | Easy | 15 |
-| 11 | []() | [Solution]() | Easy | |
-| 12 | []() | [Solution]() | Easy | |
-| 13 | []() | [Solution]() | Easy | |
-| 14 | []() | [Solution]() | Easy | |
+| 11 | [Revising the Select Query II](https://www.hackerrank.com/challenges/revising-the-select-query-2/problem?isFullScreen=true) | [Solution](https://github.com/suinkangme/HackerRank_Practice/blob/main/SQL/11_Revising%20the%20Select%20Query%20II.sql) | Easy | 10 |
+| 12 | [Japanese Cities' Attributes](https://www.hackerrank.com/challenges/japanese-cities-attributes/problem?isFullScreen=true&h_r=next-challenge&h_v=zen) | [Solution](https://github.com/suinkangme/HackerRank_Practice/blob/main/SQL/12_Japanese%20Cities'%20Attributes.sql) | Easy | 10 |
+| 13 | [Japanese Cities' Names](https://www.hackerrank.com/challenges/japanese-cities-name/problem?isFullScreen=true) | [Solution](https://github.com/suinkangme/HackerRank_Practice/blob/main/SQL/13_Japanese%20Cities'%20Names.sql) | Easy | 10 |
+| 14 | [Weather Observation Station 3](https://www.hackerrank.com/challenges/weather-observation-station-3/problem?isFullScreen=true) | [Solution](https://github.com/suinkangme/HackerRank_Practice/blob/main/SQL/14_Weather%20Observation%20Station%203.sql) | Easy | 10 |
 | 15 | []() | [Solution]() | Easy | |
 | 16 | []() | [Solution]() | Easy | |
 | 17 | []() | [Solution]() | Easy | |
