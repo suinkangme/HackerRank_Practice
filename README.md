@@ -20,8 +20,8 @@
 
 | # | PROBLEM | SOLUTION | DIFFICULTY | SCORE | CHALLENGE WHY |
 | --- | --- | --- | --- | --- | --- |
-| 1 | [Select All](https://www.hackerrank.com/challenges/select-all-sql/problem) | [Solution](https://github.com/suinkangme/HackerRank_Practice/blob/main/SQL/EASY/1_Select%20All) | Easy | 10 | --- |
-| 2 | [Weather Observation Station 1](https://www.hackerrank.com/challenges/weather-observation-station-1/problem?isFullScreen=true) | [Solution](https://github.com/suinkangme/HackerRank_Practice/blob/main/SQL/EASY/2_Weather%20Observation%20Station%201) | Easy | 15 | --- |
+| 1 | [Select All](https://www.hackerrank.com/challenges/select-all-sql/problem) | [Solution](https://github.com/suinkangme/HackerRank_Practice/blob/main/SQL/EASY/1_Select%20All.sql) | Easy | 10 | --- |
+| 2 | [Weather Observation Station 1](https://www.hackerrank.com/challenges/weather-observation-station-1/problem?isFullScreen=true) | [Solution](https://github.com/suinkangme/HackerRank_Practice/blob/main/SQL/EASY/2_Weather%20Observation%20Station%201.sql) | Easy | 15 | --- |
 | 3 | [Revising the Select Query I](https://www.hackerrank.com/challenges/revising-the-select-query/problem?isFullScreen=true) | [Solution](https://github.com/suinkangme/HackerRank_Practice/blob/main/SQL/EASY/3_Revising%20the%20Select%20Query%20I) | Easy | 10 | --- |
 | 4 | [Select By ID](https://www.hackerrank.com/challenges/select-by-id/problem?isFullScreen=true) | [Solution](https://github.com/suinkangme/HackerRank_Practice/blob/main/SQL/EASY/4_Select%20By%20ID) | Easy | 10 | --- |
 | 5 | [Weather Observation Station 6](https://www.hackerrank.com/challenges/weather-observation-station-6/problem?isFullScreen=true) | [Solution](https://github.com/suinkangme/HackerRank_Practice/blob/main/SQL/EASY/5_Weather%20Observation%20Station%206) | Easy | 10 | --- |
