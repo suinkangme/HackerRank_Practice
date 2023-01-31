@@ -38,8 +38,8 @@
 | 16 | [Weather Observation Station 7](https://www.hackerrank.com/challenges/weather-observation-station-7/problem?isFullScreen=true) | [Solution](https://github.com/suinkangme/HackerRank_Practice/blob/main/SQL/16_Weather%20Observation%20Station%207.sql) | Easy | 10 |
 | 17 | [Revising Aggregations - Averages](https://www.hackerrank.com/challenges/revising-aggregations-the-average-function/problem?isFullScreen=true) | [Solution](https://github.com/suinkangme/HackerRank_Practice/blob/main/SQL/17_Revising%20Aggregations%20-%20Averages.sql) | Easy | 10 |
 | 18 | [Revising Aggregations - The Sum Function](https://www.hackerrank.com/challenges/revising-aggregations-sum/problem?isFullScreen=true) | [Solution](https://github.com/suinkangme/HackerRank_Practice/blob/main/SQL/18_Revising%20Aggregations%20-%20The%20Sum%20Function.sql) | Easy | 10 |
-| 19 | []() | [Solution]() | Easy | |
-| 20 | []() | [Solution]() | Easy | |
+| 19 | [Average Population](https://www.hackerrank.com/challenges/average-population/problem?isFullScreen=true) | [Solution](https://github.com/suinkangme/HackerRank_Practice/blob/main/SQL/19_Average%20Population.sql) | Easy | 10 |
+| 20 | [Revising Aggregations - The Count Function](https://www.hackerrank.com/challenges/revising-aggregations-the-count-function/problem?isFullScreen=true) | [Solution](https://github.com/suinkangme/HackerRank_Practice/blob/main/SQL/20_Revising%20Aggregations%20-%20The%20Count%20Function.sql) | Easy | 10 |
 | 21 | []() | [Solution]() | Easy | |
 | 22 | []() | [Solution]() | Easy | |
 | 23 | []() | [Solution]() | Easy | |
