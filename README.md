@@ -41,7 +41,7 @@
 | 19 | [Average Population](https://www.hackerrank.com/challenges/average-population/problem?isFullScreen=true) | [Solution](https://github.com/suinkangme/HackerRank_Practice/blob/main/SQL/EASY/19_Average%20Population.sql) | Easy | 10 | --- |
 | 20 | [Revising Aggregations - The Count Function](https://www.hackerrank.com/challenges/revising-aggregations-the-count-function/problem?isFullScreen=true) | [Solution](https://github.com/suinkangme/HackerRank_Practice/blob/main/SQL/EASY/20_Revising%20Aggregations%20-%20The%20Count%20Function.sql) | Easy | 10 | --- |
 | 21 | [Population Density Difference](https://www.hackerrank.com/challenges/population-density-difference/problem?isFullScreen=true) | [Solution](https://github.com/suinkangme/HackerRank_Practice/blob/main/SQL/EASY/21_Population%20Density%20Difference.sql) | Easy | 10 | --- |
-| 22 | [Top Earners](https://www.hackerrank.com/challenges/earnings-of-employees/problem?isFullScreen=true) | [Solution]() | Easy | | --- |
+| 22 | [Top Earners](https://www.hackerrank.com/challenges/earnings-of-employees/problem?isFullScreen=true) | [Solution](https://github.com/suinkangme/HackerRank_Practice/blob/main/SQL/EASY/22_Top%20Earners.sql) | Easy | 20 | COUNT(*) : COUNT THE NUMBER OF ROW (GROUP BY)|
 | 23 | []() | [Solution]() | Easy | | --- |
 | 24 | []() | [Solution]() | Easy | | --- |
 | 25 | []() | [Solution]() | Easy | | --- |
