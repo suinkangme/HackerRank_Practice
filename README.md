@@ -36,8 +36,8 @@
 | 14 | [Weather Observation Station 3](https://www.hackerrank.com/challenges/weather-observation-station-3/problem?isFullScreen=true) | [Solution](https://github.com/suinkangme/HackerRank_Practice/blob/main/SQL/14_Weather%20Observation%20Station%203.sql) | Easy | 10 |
 | 15 | [Weather Observation Station 4](https://www.hackerrank.com/challenges/weather-observation-station-4/problem?isFullScreen=true) | [Solution](https://github.com/suinkangme/HackerRank_Practice/blob/main/SQL/15_Weather%20Observation%20Station%204.sql) | Easy | 10 |
 | 16 | [Weather Observation Station 7](https://www.hackerrank.com/challenges/weather-observation-station-7/problem?isFullScreen=true) | [Solution](https://github.com/suinkangme/HackerRank_Practice/blob/main/SQL/16_Weather%20Observation%20Station%207.sql) | Easy | 10 |
-| 17 | []() | [Solution]() | Easy | |
-| 18 | []() | [Solution]() | Easy | |
+| 17 | [Revising Aggregations - Averages](https://www.hackerrank.com/challenges/revising-aggregations-the-average-function/problem?isFullScreen=true) | [Solution](https://github.com/suinkangme/HackerRank_Practice/blob/main/SQL/17_Revising%20Aggregations%20-%20Averages.sql) | Easy | 10 |
+| 18 | [Revising Aggregations - The Sum Function](https://www.hackerrank.com/challenges/revising-aggregations-sum/problem?isFullScreen=true) | [Solution](https://github.com/suinkangme/HackerRank_Practice/blob/main/SQL/18_Revising%20Aggregations%20-%20The%20Sum%20Function.sql) | Easy | 10 |
 | 19 | []() | [Solution]() | Easy | |
 | 20 | []() | [Solution]() | Easy | |
 | 21 | []() | [Solution]() | Easy | |
