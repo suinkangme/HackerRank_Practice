@@ -42,9 +42,9 @@
 | 20 | [Revising Aggregations - The Count Function](https://www.hackerrank.com/challenges/revising-aggregations-the-count-function/problem?isFullScreen=true) | [Solution](https://github.com/suinkangme/HackerRank_Practice/blob/main/SQL/EASY/20_Revising%20Aggregations%20-%20The%20Count%20Function.sql) | Easy | 10 | --- |
 | 21 | [Population Density Difference](https://www.hackerrank.com/challenges/population-density-difference/problem?isFullScreen=true) | [Solution](https://github.com/suinkangme/HackerRank_Practice/blob/main/SQL/EASY/21_Population%20Density%20Difference.sql) | Easy | 10 | --- |
 | 22 | [Top Earners](https://www.hackerrank.com/challenges/earnings-of-employees/problem?isFullScreen=true) | [Solution](https://github.com/suinkangme/HackerRank_Practice/blob/main/SQL/EASY/22_Top%20Earners.sql) | Easy | 20 | COUNT(*) : COUNT THE NUMBER OF ROW (GROUP BY)|
-| 23 | []() | [Solution]() | Easy | | --- |
-| 24 | []() | [Solution]() | Easy | | --- |
-| 25 | []() | [Solution]() | Easy | | --- |
+| 23 | [Weather Observation Station 2](https://www.hackerrank.com/challenges/weather-observation-station-2/problem?isFullScreen=true) | [Solution](https://github.com/suinkangme/HackerRank_Practice/blob/main/SQL/EASY/23_.Weather%20Observation%20Station%202sql) | Easy | 15 | --- |
+| 24 | [Weather Observation Station 13](https://www.hackerrank.com/challenges/weather-observation-station-13/problem?isFullScreen=true&h_r=next-challenge&h_v=zen) | [Solution](https://github.com/suinkangme/HackerRank_Practice/blob/main/SQL/EASY/24_Weather%20Observation%20Station%2013.sql) | Easy | 10 | --- |
+| 25 | [Weather Observation Station 14](https://www.hackerrank.com/challenges/weather-observation-station-14/problem?isFullScreen=true&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen) | [Solution](https://github.com/suinkangme/HackerRank_Practice/blob/main/SQL/EASY/25_Weather%20Observation%20Station%2014.sql) | Easy | 10 | --- |
 | 26 | []() | [Solution]() | Easy | | --- |
 | 27 | []() | [Solution]() | Easy | | --- |
 | 28 | []() | [Solution]() | Easy | | --- |
