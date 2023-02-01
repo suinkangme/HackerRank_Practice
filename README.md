@@ -45,9 +45,9 @@
 | 23 | [Weather Observation Station 2](https://www.hackerrank.com/challenges/weather-observation-station-2/problem?isFullScreen=true) | [Solution](https://github.com/suinkangme/HackerRank_Practice/blob/main/SQL/EASY/23_.Weather%20Observation%20Station%202sql) | Easy | 15 | --- |
 | 24 | [Weather Observation Station 13](https://www.hackerrank.com/challenges/weather-observation-station-13/problem?isFullScreen=true&h_r=next-challenge&h_v=zen) | [Solution](https://github.com/suinkangme/HackerRank_Practice/blob/main/SQL/EASY/24_Weather%20Observation%20Station%2013.sql) | Easy | 10 | --- |
 | 25 | [Weather Observation Station 14](https://www.hackerrank.com/challenges/weather-observation-station-14/problem?isFullScreen=true&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen) | [Solution](https://github.com/suinkangme/HackerRank_Practice/blob/main/SQL/EASY/25_Weather%20Observation%20Station%2014.sql) | Easy | 10 | --- |
-| 26 | []() | [Solution]() | Easy | | --- |
-| 27 | []() | [Solution]() | Easy | | --- |
-| 28 | []() | [Solution]() | Easy | | --- |
+| 26 | [Weather Observation Station 8](https://www.hackerrank.com/challenges/weather-observation-station-8/problem?isFullScreen=true) | [Solution]() | Easy | 10 | --- |
+| 27 | [Weather Observation Station 16](https://www.hackerrank.com/challenges/weather-observation-station-16/problem?isFullScreen=true&h_r=next-challenge&h_v=zen) | [Solution](https://github.com/suinkangme/HackerRank_Practice/blob/main/SQL/EASY/27_Weather%20Observation%20Station%2016.sql) | Easy | 10 | --- |
+| 28 | [Weather Observation Station 17](https://www.hackerrank.com/challenges/weather-observation-station-17/problem?isFullScreen=true&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen) | [Solution](https://github.com/suinkangme/HackerRank_Practice/blob/main/SQL/EASY/28_Weather%20Observation%20Station%2017.sql) | Easy | 15 | WHERE MIN() > is not working, so I should write the query with ORDER BY & LIMIT to print out the min() |
 | 29 | []() | [Solution]() | Easy | | --- |
 | 30 | []() | [Solution]() | Easy | | --- |
 
