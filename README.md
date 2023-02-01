@@ -48,7 +48,24 @@
 | 26 | [Weather Observation Station 8](https://www.hackerrank.com/challenges/weather-observation-station-8/problem?isFullScreen=true) | [Solution]() | Easy | 10 | --- |
 | 27 | [Weather Observation Station 16](https://www.hackerrank.com/challenges/weather-observation-station-16/problem?isFullScreen=true&h_r=next-challenge&h_v=zen) | [Solution](https://github.com/suinkangme/HackerRank_Practice/blob/main/SQL/EASY/27_Weather%20Observation%20Station%2016.sql) | Easy | 10 | --- |
 | 28 | [Weather Observation Station 17](https://www.hackerrank.com/challenges/weather-observation-station-17/problem?isFullScreen=true&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen) | [Solution](https://github.com/suinkangme/HackerRank_Practice/blob/main/SQL/EASY/28_Weather%20Observation%20Station%2017.sql) | Easy | 15 | WHERE MIN() > is not working, so I should write the query with ORDER BY & LIMIT to print out the min() |
-| 29 | []() | [Solution]() | Easy | | --- |
-| 30 | []() | [Solution]() | Easy | | --- |
+| 29 | [Japan Population](https://www.hackerrank.com/challenges/japan-population/problem?isFullScreen=true) | [Solution](https://github.com/suinkangme/HackerRank_Practice/blob/main/SQL/EASY/29_Japan%20Population.sql) | Easy | 10 | --- |
+| 30 | [African Cities](https://www.hackerrank.com/challenges/african-cities/problem?isFullScreen=true) | [Solution](https://github.com/suinkangme/HackerRank_Practice/blob/main/SQL/EASY/30_African%20Cities.sql) | Easy | 10 | --- |
+| 31 | []() | [Solution]() | Easy | 10 | --- |
+| 32 | []() | [Solution]() | Easy | 10 | --- |
+| 33 | []() | [Solution]() | Easy | 10 | --- |
+| 34 | []() | [Solution]() | Easy | 10 | --- |
+| 35 | []() | [Solution]() | Easy | 10 | --- |
+| 36 | []() | [Solution]() | Easy | 10 | --- |
+| 37 | []() | [Solution]() | Easy | 10 | --- |
+| 38 | []() | [Solution]() | Easy | 10 | --- |
+| 39 | []() | [Solution]() | Easy | 10 | --- |
+| 40 | []() | [Solution]() | Easy | 10 | --- |
+| 41 | []() | [Solution]() | Easy | 10 | --- |
+| 42 | []() | [Solution]() | Easy | 10 | --- |
+| 43 | []() | [Solution]() | Easy | 10 | --- |
+| 44 | []() | [Solution]() | Easy | 10 | --- |
+| 45 | []() | [Solution]() | Easy | 10 | --- |
+
+
 
 
