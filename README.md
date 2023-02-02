@@ -51,8 +51,8 @@
 | 29 | [Japan Population](https://www.hackerrank.com/challenges/japan-population/problem?isFullScreen=true) | [Solution](https://github.com/suinkangme/HackerRank_Practice/blob/main/SQL/EASY/29_Japan%20Population.sql) | Easy | 10 | --- |
 | 30 | [African Cities](https://www.hackerrank.com/challenges/african-cities/problem?isFullScreen=true) | [Solution](https://github.com/suinkangme/HackerRank_Practice/blob/main/SQL/EASY/30_African%20Cities.sql) | Easy | 10 | --- |
 | 31 | [Type of Triangle](https://www.hackerrank.com/challenges/what-type-of-triangle/problem?isFullScreen=true) | [Solution](https://github.com/suinkangme/HackerRank_Practice/blob/main/SQL/EASY/31_Type%20of%20Triangle.sql) | Easy | 20 | runtime error: put wrong attribute(type) in SELECT |
-| 32 | []() | [Solution]() | Easy | 10 | --- |
-| 33 | []() | [Solution]() | Easy | 10 | --- |
+| 32 | [Average Population of Each Continent](https://www.hackerrank.com/challenges/average-population-of-each-continent/problem?isFullScreen=true) | [Solution]() | Easy | 10 | --- |
+| 33 | [Weather Observation Station 5](https://www.hackerrank.com/challenges/weather-observation-station-5/problem?isFullScreen=true) | [Solution](https://github.com/suinkangme/HackerRank_Practice/blob/main/SQL/EASY/33_Weather%20Observation%20Station%205.sql) | Easy | 30 | --- |
 | 34 | []() | [Solution]() | Easy | 10 | --- |
 | 35 | []() | [Solution]() | Easy | 10 | --- |
 | 36 | []() | [Solution]() | Easy | 10 | --- |
