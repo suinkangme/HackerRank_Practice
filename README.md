@@ -20,6 +20,28 @@
 
 | # | PROBLEM | SOLUTION | DIFFICULTY | SCORE | CHALLENGE WHY |
 | --- | --- | --- | --- | --- | --- |
+| 1 | []() | [Solution]() | Medium | 10 | --- |
+| 2 | []() | [Solution]() | Medium | 10 | --- |
+| 3 | []() | [Solution]() | Medium | 10 | --- |
+| 4 | []() | [Solution]() | Medium | 10 | --- |
+| 5 | []() | [Solution]() | Medium | 10 | --- |
+| 6 | []() | [Solution]() | Medium | 10 | --- |
+| 7 | []() | [Solution]() | Medium | 10 | --- |
+| 8 | []() | [Solution]() | Medium | 10 | --- |
+| 9 | []() | [Solution]() | Medium | 10 | --- |
+| 10 | []() | [Solution]() | Medium | 10 | --- |
+| 11 | []() | [Solution]() | Medium | 10 | --- |
+| 12 | []() | [Solution]() | Medium | 10 | --- |
+| 13 | []() | [Solution]() | Medium | 10 | --- |
+| 14 | []() | [Solution]() | Medium | 10 | --- |
+| 15 | []() | [Solution]() | Medium | 10 | --- |
+| 16 | []() | [Solution]() | Medium | 10 | --- |
+
+<br>
+<br>
+
+| # | PROBLEM | SOLUTION | DIFFICULTY | SCORE | CHALLENGE WHY |
+| --- | --- | --- | --- | --- | --- |
 | 1 | [Select All](https://www.hackerrank.com/challenges/select-all-sql/problem) | [Solution](https://github.com/suinkangme/HackerRank_Practice/blob/main/SQL/EASY/1_Select%20All.sql) | Easy | 10 | --- |
 | 2 | [Weather Observation Station 1](https://www.hackerrank.com/challenges/weather-observation-station-1/problem?isFullScreen=true) | [Solution](https://github.com/suinkangme/HackerRank_Practice/blob/main/SQL/EASY/2_Weather%20Observation%20Station%201.sql) | Easy | 15 | --- |
 | 3 | [Revising the Select Query I](https://www.hackerrank.com/challenges/revising-the-select-query/problem?isFullScreen=true) | [Solution](https://github.com/suinkangme/HackerRank_Practice/blob/main/SQL/EASY/3_Revising%20the%20Select%20Query%20I.sql.) | Easy | 10 | --- |
@@ -54,17 +76,19 @@
 | 32 | [Average Population of Each Continent](https://www.hackerrank.com/challenges/average-population-of-each-continent/problem?isFullScreen=true) | [Solution]() | Easy | 10 | --- |
 | 33 | [Weather Observation Station 5](https://www.hackerrank.com/challenges/weather-observation-station-5/problem?isFullScreen=true) | [Solution](https://github.com/suinkangme/HackerRank_Practice/blob/main/SQL/EASY/33_Weather%20Observation%20Station%205.sql) | Easy | 30 | ORDER BY : first column sorted first, and the next column will be sorted based on the first sort  |
 | 34 | [Weather Observation Station 9](https://www.hackerrank.com/challenges/weather-observation-station-9/problem?isFullScreen=true&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen) | [Solution](https://github.com/suinkangme/HackerRank_Practice/blob/main/SQL/EASY/34_Weather%20Observation%20Station%209.sql) | Easy | 10 | --- |
-| 35 | []() | [Solution]() | Easy | 10 | --- |
-| 36 | []() | [Solution]() | Easy | 10 | --- |
+| 35 | [Weather Observation Station 10](https://www.hackerrank.com/challenges/weather-observation-station-10/problem?isFullScreen=true&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen) | [Solution](https://github.com/suinkangme/HackerRank_Practice/blob/main/SQL/EASY/35_Weather%20Observation%20Station%2010.sql) | Easy | 10 | --- |
+| 36 | [Weather Observation Station 11](https://www.hackerrank.com/challenges/weather-observation-station-11/problem?isFullScreen=true&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen) | [Solution](https://github.com/suinkangme/HackerRank_Practice/blob/main/SQL/EASY/36_Weather%20Observation%20Station%2011.sql) | Easy | 10 | --- |
 | 37 | []() | [Solution]() | Easy | 10 | --- |
 | 38 | []() | [Solution]() | Easy | 10 | --- |
 | 39 | []() | [Solution]() | Easy | 10 | --- |
 | 40 | []() | [Solution]() | Easy | 10 | --- |
 | 41 | []() | [Solution]() | Easy | 10 | --- |
 | 42 | []() | [Solution]() | Easy | 10 | --- |
-| 43 | []() | [Solution]() | Easy | 10 | --- |
-| 44 | []() | [Solution]() | Easy | 10 | --- |
-| 45 | []() | [Solution]() | Easy | 10 | --- |
+
+
+
+
+
 
 
 
