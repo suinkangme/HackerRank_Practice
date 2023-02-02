@@ -18,6 +18,9 @@
 
 ***
 
+<br>
+### Difficulty - Medium 
+
 | # | PROBLEM | SOLUTION | DIFFICULTY | SCORE | CHALLENGE WHY |
 | --- | --- | --- | --- | --- | --- |
 | 1 | []() | [Solution]() | Medium | 10 | --- |
@@ -39,6 +42,8 @@
 
 <br>
 <br>
+
+### Difficulty - Easy 
 
 | # | PROBLEM | SOLUTION | DIFFICULTY | SCORE | CHALLENGE WHY |
 | --- | --- | --- | --- | --- | --- |
