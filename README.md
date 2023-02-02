@@ -19,7 +19,8 @@
 ***
 
 <br>
-### Difficulty - Medium 
+
+### < Difficulty - Medium >
 
 | # | PROBLEM | SOLUTION | DIFFICULTY | SCORE | CHALLENGE WHY |
 | --- | --- | --- | --- | --- | --- |
@@ -43,7 +44,7 @@
 <br>
 <br>
 
-### Difficulty - Easy 
+### < Difficulty - Easy >
 
 | # | PROBLEM | SOLUTION | DIFFICULTY | SCORE | CHALLENGE WHY |
 | --- | --- | --- | --- | --- | --- |
