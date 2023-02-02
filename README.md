@@ -50,7 +50,7 @@
 | 28 | [Weather Observation Station 17](https://www.hackerrank.com/challenges/weather-observation-station-17/problem?isFullScreen=true&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen) | [Solution](https://github.com/suinkangme/HackerRank_Practice/blob/main/SQL/EASY/28_Weather%20Observation%20Station%2017.sql) | Easy | 15 | WHERE MIN() > is not working, so I should write the query with ORDER BY & LIMIT to print out the min() |
 | 29 | [Japan Population](https://www.hackerrank.com/challenges/japan-population/problem?isFullScreen=true) | [Solution](https://github.com/suinkangme/HackerRank_Practice/blob/main/SQL/EASY/29_Japan%20Population.sql) | Easy | 10 | --- |
 | 30 | [African Cities](https://www.hackerrank.com/challenges/african-cities/problem?isFullScreen=true) | [Solution](https://github.com/suinkangme/HackerRank_Practice/blob/main/SQL/EASY/30_African%20Cities.sql) | Easy | 10 | --- |
-| 31 | [Type of Triangle](https://www.hackerrank.com/challenges/what-type-of-triangle/problem?isFullScreen=true) | [Solution]() | Easy |  | runtime error: put wrong attribute(type) in SELECT |
+| 31 | [Type of Triangle](https://www.hackerrank.com/challenges/what-type-of-triangle/problem?isFullScreen=true) | [Solution](https://github.com/suinkangme/HackerRank_Practice/blob/main/SQL/EASY/31_Type%20of%20Triangle.sql) | Easy | 20 | runtime error: put wrong attribute(type) in SELECT |
 | 32 | []() | [Solution]() | Easy | 10 | --- |
 | 33 | []() | [Solution]() | Easy | 10 | --- |
 | 34 | []() | [Solution]() | Easy | 10 | --- |
