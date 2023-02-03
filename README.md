@@ -84,7 +84,7 @@
 | 34 | [Weather Observation Station 9](https://www.hackerrank.com/challenges/weather-observation-station-9/problem?isFullScreen=true&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen) | [Solution](https://github.com/suinkangme/HackerRank_Practice/blob/main/SQL/EASY/34_Weather%20Observation%20Station%209.sql) | Easy | 10 | --- |
 | 35 | [Weather Observation Station 10](https://www.hackerrank.com/challenges/weather-observation-station-10/problem?isFullScreen=true&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen) | [Solution](https://github.com/suinkangme/HackerRank_Practice/blob/main/SQL/EASY/35_Weather%20Observation%20Station%2010.sql) | Easy | 10 | --- |
 | 36 | [Weather Observation Station 11](https://www.hackerrank.com/challenges/weather-observation-station-11/problem?isFullScreen=true&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen) | [Solution](https://github.com/suinkangme/HackerRank_Practice/blob/main/SQL/EASY/36_Weather%20Observation%20Station%2011.sql) | Easy | 10 | --- |
-| 37 | []() | [Solution]() | Easy | 10 | --- |
+| 37 | [The Blunder](https://www.hackerrank.com/challenges/the-blunder/problem?isFullScreen=true) | [Solution](https://github.com/suinkangme/HackerRank_Practice/blob/main/SQL/EASY/37_The%20Blunder.sql) | Easy | 15 | REPLACE **|
 | 38 | []() | [Solution]() | Easy | 10 | --- |
 | 39 | []() | [Solution]() | Easy | 10 | --- |
 | 40 | []() | [Solution]() | Easy | 10 | --- |
