@@ -24,22 +24,22 @@
 
 | # | PROBLEM | SOLUTION | DIFFICULTY | SCORE | CHALLENGE WHY |
 | --- | --- | --- | --- | --- | --- |
-| 1 | []() | [Solution]() | Medium | 10 | --- |
-| 2 | []() | [Solution]() | Medium | 10 | --- |
-| 3 | []() | [Solution]() | Medium | 10 | --- |
-| 4 | []() | [Solution]() | Medium | 10 | --- |
-| 5 | []() | [Solution]() | Medium | 10 | --- |
-| 6 | []() | [Solution]() | Medium | 10 | --- |
-| 7 | []() | [Solution]() | Medium | 10 | --- |
-| 8 | []() | [Solution]() | Medium | 10 | --- |
-| 9 | []() | [Solution]() | Medium | 10 | --- |
-| 10 | []() | [Solution]() | Medium | 10 | --- |
-| 11 | []() | [Solution]() | Medium | 10 | --- |
-| 12 | []() | [Solution]() | Medium | 10 | --- |
-| 13 | []() | [Solution]() | Medium | 10 | --- |
-| 14 | []() | [Solution]() | Medium | 10 | --- |
-| 15 | []() | [Solution]() | Medium | 10 | --- |
-| 16 | []() | [Solution]() | Medium | 10 | --- |
+| 1 | [Weather Observation Station 18](https://www.hackerrank.com/challenges/weather-observation-station-18/problem?isFullScreen=true&h_r=next-challenge&h_v=zen) | [Solution](https://github.com/suinkangme/HackerRank_Practice/blob/main/SQL/MEDIUM/Weather%20Observation%20Station%2018.sql) | Medium | 25 | --- |
+| 2 | [Weather Observation Station 19](https://www.hackerrank.com/challenges/weather-observation-station-19/problem?isFullScreen=true&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen) | [Solution](https://github.com/suinkangme/HackerRank_Practice/blob/main/SQL/MEDIUM/Weather%20Observation%20Station%2019.sql) | Medium | 30 | SQRT : return the square root of a number , POWER |
+| 3 | []() | [Solution]() | Medium | 0 | --- |
+| 4 | []() | [Solution]() | Medium | 0 | --- |
+| 5 | []() | [Solution]() | Medium | 0 | --- |
+| 6 | []() | [Solution]() | Medium | 0 | --- |
+| 7 | []() | [Solution]() | Medium | 0 | --- |
+| 8 | []() | [Solution]() | Medium | 0 | --- |
+| 9 | []() | [Solution]() | Medium | 0 | --- |
+| 10 | []() | [Solution]() | Medium | 0 | --- |
+| 11 | []() | [Solution]() | Medium | 0 | --- |
+| 12 | []() | [Solution]() | Medium | 0 | --- |
+| 13 | []() | [Solution]() | Medium | 0 | --- |
+| 14 | []() | [Solution]() | Medium | 0 | --- |
+| 15 | []() | [Solution]() | Medium | 0 | --- |
+| 16 | []() | [Solution]() | Medium | 0 | --- |
 
 <br>
 <br>
@@ -79,17 +79,14 @@
 | 29 | [Japan Population](https://www.hackerrank.com/challenges/japan-population/problem?isFullScreen=true) | [Solution](https://github.com/suinkangme/HackerRank_Practice/blob/main/SQL/EASY/29_Japan%20Population.sql) | Easy | 10 | --- |
 | 30 | [African Cities](https://www.hackerrank.com/challenges/african-cities/problem?isFullScreen=true) | [Solution](https://github.com/suinkangme/HackerRank_Practice/blob/main/SQL/EASY/30_African%20Cities.sql) | Easy | 10 | --- |
 | 31 | [Type of Triangle](https://www.hackerrank.com/challenges/what-type-of-triangle/problem?isFullScreen=true) | [Solution](https://github.com/suinkangme/HackerRank_Practice/blob/main/SQL/EASY/31_Type%20of%20Triangle.sql) | Easy | 20 | runtime error: put wrong attribute(type) in SELECT |
-| 32 | [Average Population of Each Continent](https://www.hackerrank.com/challenges/average-population-of-each-continent/problem?isFullScreen=true) | [Solution]() | Easy | 10 | --- |
+| 32 | [Average Population of Each Continent](https://www.hackerrank.com/challenges/average-population-of-each-continent/problem?isFullScreen=true) | [Solution](https://github.com/suinkangme/HackerRank_Practice/blob/main/SQL/EASY/32_Average%20Population%20of%20Each%20Continent.sql) | Easy | 10 | GROUP BY |
 | 33 | [Weather Observation Station 5](https://www.hackerrank.com/challenges/weather-observation-station-5/problem?isFullScreen=true) | [Solution](https://github.com/suinkangme/HackerRank_Practice/blob/main/SQL/EASY/33_Weather%20Observation%20Station%205.sql) | Easy | 30 | ORDER BY : first column sorted first, and the next column will be sorted based on the first sort  |
 | 34 | [Weather Observation Station 9](https://www.hackerrank.com/challenges/weather-observation-station-9/problem?isFullScreen=true&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen) | [Solution](https://github.com/suinkangme/HackerRank_Practice/blob/main/SQL/EASY/34_Weather%20Observation%20Station%209.sql) | Easy | 10 | --- |
 | 35 | [Weather Observation Station 10](https://www.hackerrank.com/challenges/weather-observation-station-10/problem?isFullScreen=true&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen) | [Solution](https://github.com/suinkangme/HackerRank_Practice/blob/main/SQL/EASY/35_Weather%20Observation%20Station%2010.sql) | Easy | 10 | --- |
 | 36 | [Weather Observation Station 11](https://www.hackerrank.com/challenges/weather-observation-station-11/problem?isFullScreen=true&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen) | [Solution](https://github.com/suinkangme/HackerRank_Practice/blob/main/SQL/EASY/36_Weather%20Observation%20Station%2011.sql) | Easy | 10 | --- |
-| 37 | [The Blunder](https://www.hackerrank.com/challenges/the-blunder/problem?isFullScreen=true) | [Solution](https://github.com/suinkangme/HackerRank_Practice/blob/main/SQL/EASY/37_The%20Blunder.sql) | Easy | 15 | REPLACE **|
-| 38 | [Weather Observation Station 18](https://www.hackerrank.com/challenges/weather-observation-station-18/problem?isFullScreen=true&h_r=next-challenge&h_v=zen) | [Solution](https://github.com/suinkangme/HackerRank_Practice/blob/main/SQL/EASY/38_Weather%20Observation%20Station%2018.sql) | Easy | 25 | --- |
-| 39 | [Weather Observation Station 19](https://www.hackerrank.com/challenges/weather-observation-station-19/problem?isFullScreen=true&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen) | [Solution](https://github.com/suinkangme/HackerRank_Practice/blob/main/SQL/EASY/39_Weather%20Observation%20Station%2019.sql) | Easy | 30 | SQRT : return the square root of a number , POWER |
-| 40 | []() | [Solution]() | Easy | 10 | --- |
-| 41 | []() | [Solution]() | Easy | 10 | --- |
-| 42 | []() | [Solution]() | Easy | 10 | --- |
+| 37 | [The Blunder](https://www.hackerrank.com/challenges/the-blunder/problem?isFullScreen=true) | [Solution](https://github.com/suinkangme/HackerRank_Practice/blob/main/SQL/EASY/37_The%20Blunder.sql) | Easy | 15 | REPLACE ** |
+| 38 | [Population Census](https://www.hackerrank.com/challenges/asian-population/problem?isFullScreen=true) | [Solution](https://github.com/suinkangme/HackerRank_Practice/blob/main/SQL/EASY/38_Population%20Census.sql) | Easy | 10 | Key Column should be match! |
+
 
 
 
