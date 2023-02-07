@@ -20,31 +20,7 @@
 
 <br>
 
-### < Difficulty - Medium >
-
-| # | PROBLEM | SOLUTION | DIFFICULTY | SCORE | CHALLENGE WHY |
-| --- | --- | --- | --- | --- | --- |
-| 1 | [Weather Observation Station 18](https://www.hackerrank.com/challenges/weather-observation-station-18/problem?isFullScreen=true&h_r=next-challenge&h_v=zen) | [Solution](https://github.com/suinkangme/HackerRank_Practice/blob/main/SQL/MEDIUM/Weather%20Observation%20Station%2018.sql) | Medium | 25 | --- |
-| 2 | [Weather Observation Station 19](https://www.hackerrank.com/challenges/weather-observation-station-19/problem?isFullScreen=true&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen) | [Solution](https://github.com/suinkangme/HackerRank_Practice/blob/main/SQL/MEDIUM/Weather%20Observation%20Station%2019.sql) | Medium | 30 | SQRT : return the square root of a number , POWER |
-| 3 | []() | [Solution]() | Medium | 0 | --- |
-| 4 | []() | [Solution]() | Medium | 0 | --- |
-| 5 | []() | [Solution]() | Medium | 0 | --- |
-| 6 | []() | [Solution]() | Medium | 0 | --- |
-| 7 | []() | [Solution]() | Medium | 0 | --- |
-| 8 | []() | [Solution]() | Medium | 0 | --- |
-| 9 | []() | [Solution]() | Medium | 0 | --- |
-| 10 | []() | [Solution]() | Medium | 0 | --- |
-| 11 | []() | [Solution]() | Medium | 0 | --- |
-| 12 | []() | [Solution]() | Medium | 0 | --- |
-| 13 | []() | [Solution]() | Medium | 0 | --- |
-| 14 | []() | [Solution]() | Medium | 0 | --- |
-| 15 | []() | [Solution]() | Medium | 0 | --- |
-| 16 | []() | [Solution]() | Medium | 0 | --- |
-
-<br>
-<br>
-
-### < Difficulty - Easy >
+### < MySQL >
 
 | # | PROBLEM | SOLUTION | DIFFICULTY | SCORE | CHALLENGE WHY |
 | --- | --- | --- | --- | --- | --- |
@@ -86,7 +62,32 @@
 | 36 | [Weather Observation Station 11](https://www.hackerrank.com/challenges/weather-observation-station-11/problem?isFullScreen=true&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen) | [Solution](https://github.com/suinkangme/HackerRank_Practice/blob/main/SQL/EASY/36_Weather%20Observation%20Station%2011.sql) | Easy | 10 | --- |
 | 37 | [The Blunder](https://www.hackerrank.com/challenges/the-blunder/problem?isFullScreen=true) | [Solution](https://github.com/suinkangme/HackerRank_Practice/blob/main/SQL/EASY/37_The%20Blunder.sql) | Easy | 15 | REPLACE ** |
 | 38 | [Population Census](https://www.hackerrank.com/challenges/asian-population/problem?isFullScreen=true) | [Solution](https://github.com/suinkangme/HackerRank_Practice/blob/main/SQL/EASY/38_Population%20Census.sql) | Easy | 10 | Key Column should be match! |
+| 39| [Weather Observation Station 18](https://www.hackerrank.com/challenges/weather-observation-station-18/problem?isFullScreen=true&h_r=next-challenge&h_v=zen) | [Solution](https://github.com/suinkangme/HackerRank_Practice/blob/main/SQL/MEDIUM/Weather%20Observation%20Station%2018.sql) | Medium | 25 | --- |
+| 40 | [Weather Observation Station 19](https://www.hackerrank.com/challenges/weather-observation-station-19/problem?isFullScreen=true&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen) | [Solution](https://github.com/suinkangme/HackerRank_Practice/blob/main/SQL/MEDIUM/Weather%20Observation%20Station%2019.sql) | Medium | 30 | SQRT : return the square root of a number , POWER |
 
+<br>
+<br>
+
+### < Python >
+
+| # | PROBLEM | SOLUTION | DIFFICULTY | SCORE | CHALLENGE WHY |
+| --- | --- | --- | --- | --- | --- |
+| 1 | [Say "Hello, World!" With Python](https://www.hackerrank.com/challenges/py-hello-world/problem?isFullScreen=true) | [Solution](https://github.com/suinkangme/HackerRank_Practice/blob/main/PYTHON/Easy/Say%20%22Hello%2C%20World!%22%20With%20Python.py) | Easy | 5 | --- |
+| 2 | []() | [Solution]() | Easy | 0 | --- |
+| 3 | []() | [Solution]() | Easy | 0 | --- |
+| 4 | []() | [Solution]() | Easy | 0 | --- |
+| 5 | []() | [Solution]() | Easy | 0 | --- |
+| 6 | []() | [Solution]() | Easy | 0 | --- |
+| 7 | []() | [Solution]() | Easy | 0 | --- |
+| 8 | []() | [Solution]() | Easy | 0 | --- |
+| 9 | []() | [Solution]() | Easy | 0 | --- |
+| 10 | []() | [Solution]() | Easy | 0 | --- |
+| 11 | []() | [Solution]() | Easy | 0 | --- |
+| 12 | []() | [Solution]() | Easy | 0 | --- |
+| 13 | []() | [Solution]() | Easy | 0 | --- |
+| 14 | []() | [Solution]() | Medium | 0 | --- |
+| 15 | []() | [Solution]() | Medium | 0 | --- |
+| 16 | []() | [Solution]() | Medium | 0 | --- |
 
 
 
