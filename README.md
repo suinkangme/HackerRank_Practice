@@ -77,7 +77,7 @@
 | 3 | [Loops](https://www.hackerrank.com/challenges/python-loops/problem?isFullScreen=true) | [Solution](https://github.com/suinkangme/HackerRank_Practice/blob/main/PYTHON/EASY/Loops.py) | Easy | 10 | --- |
 | 4 | [Python: Division](https://www.hackerrank.com/challenges/python-division/problem?isFullScreen=true) | [Solution](https://github.com/suinkangme/HackerRank_Practice/blob/main/PYTHON/EASY/Python:%20Division.py) | Easy | 10 | --- |
 | 5 | [Arithmetic Operators](https://www.hackerrank.com/challenges/python-arithmetic-operators/problem?isFullScreen=true) | [Solution](https://github.com/suinkangme/HackerRank_Practice/blob/main/PYTHON/EASY/Arithmetic%20Operators.py) | Easy | 10 | --- |
-| 6 | []() | [Solution]() | Easy | 0 | --- |
+| 6 | [Print Function](https://www.hackerrank.com/challenges/python-print/problem?isFullScreen=true) | [Solution](https://github.com/suinkangme/HackerRank_Practice/blob/main/PYTHON/EASY/Print%20Function.py) | Easy | 20 | end="" : print without newline |
 | 7 | []() | [Solution]() | Easy | 0 | --- |
 | 8 | []() | [Solution]() | Easy | 0 | --- |
 | 9 | []() | [Solution]() | Easy | 0 | --- |
