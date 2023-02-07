@@ -73,7 +73,7 @@
 | # | PROBLEM | SOLUTION | DIFFICULTY | SCORE | CHALLENGE WHY |
 | --- | --- | --- | --- | --- | --- |
 | 1 | [Say "Hello, World!" With Python](https://www.hackerrank.com/challenges/py-hello-world/problem?isFullScreen=true) | [Solution](https://github.com/suinkangme/HackerRank_Practice/blob/main/PYTHON/Easy/Say%20%22Hello%2C%20World!%22%20With%20Python.py) | Easy | 5 | --- |
-| 2 | []() | [Solution]() | Easy | 0 | --- |
+| 2 | [Python If-Else](https://www.hackerrank.com/challenges/py-if-else/problem?isFullScreen=true&h_r=next-challenge&h_v=zen) | [Solution](https://github.com/suinkangme/HackerRank_Practice/blob/main/PYTHON/EASY/Python%20If-Else.py) | Easy | 10 | --- |
 | 3 | []() | [Solution]() | Easy | 0 | --- |
 | 4 | []() | [Solution]() | Easy | 0 | --- |
 | 5 | []() | [Solution]() | Easy | 0 | --- |
