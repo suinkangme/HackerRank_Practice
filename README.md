@@ -64,6 +64,17 @@
 | 38 | [Population Census](https://www.hackerrank.com/challenges/asian-population/problem?isFullScreen=true) | [Solution](https://github.com/suinkangme/HackerRank_Practice/blob/main/SQL/EASY/38_Population%20Census.sql) | Easy | 10 | Key Column should be match! |
 | 39| [Weather Observation Station 18](https://www.hackerrank.com/challenges/weather-observation-station-18/problem?isFullScreen=true&h_r=next-challenge&h_v=zen) | [Solution](https://github.com/suinkangme/HackerRank_Practice/blob/main/SQL/MEDIUM/Weather%20Observation%20Station%2018.sql) | Medium | 25 | --- |
 | 40 | [Weather Observation Station 19](https://www.hackerrank.com/challenges/weather-observation-station-19/problem?isFullScreen=true&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen) | [Solution](https://github.com/suinkangme/HackerRank_Practice/blob/main/SQL/MEDIUM/Weather%20Observation%20Station%2019.sql) | Medium | 30 | SQRT : return the square root of a number , POWER |
+| 41 | [Symmetric Pairs](https://www.hackerrank.com/challenges/symmetric-pairs/problem?isFullScreen=true) | [Solution]() | Medium | 0 | --- |
+| 42 | []() | [Solution]() | Medium | 0 | --- |
+| 43 | []() | [Solution]() | Medium | 0 | --- |
+| 44 | []() | [Solution]() | Medium | 0 | --- |
+| 45 | []() | [Solution]() | Medium | 0 | --- |
+| 46 | []() | [Solution]() | Medium | 0 | --- |
+| 47 | []() | [Solution]() | Medium | 0 | --- |
+| 48 | []() | [Solution]() | Medium | 0 | --- |
+| 49 | []() | [Solution]() | Medium | 0 | --- |
+| 50 | []() | [Solution]() | Medium | 0 | --- |
+
 
 <br>
 <br>
@@ -88,6 +99,21 @@
 | 14 | []() | [Solution]() | Medium | 0 | --- |
 | 15 | []() | [Solution]() | Medium | 0 | --- |
 | 16 | []() | [Solution]() | Medium | 0 | --- |
+| 17 | []() | [Solution]() | Easy | 0 | --- |
+| 18 | []() | [Solution]() | Easy | 0 | --- |
+| 19 | []() | [Solution]() | Easy | 0 | --- |
+| 20 | []() | [Solution]() | Easy | 0 | --- |
+| 21 | []() | [Solution]() | Easy | 0 | --- |
+| 22 | []() | [Solution]() | Easy | 0 | --- |
+| 23 | []() | [Solution]() | Easy | 0 | --- |
+| 24 | []() | [Solution]() | Medium | 0 | --- |
+| 25 | []() | [Solution]() | Medium | 0 | --- |
+| 26 | []() | [Solution]() | Medium | 0 | --- |
+| 27 | []() | [Solution]() | Easy | 0 | --- |
+| 28 | []() | [Solution]() | Easy | 0 | --- |
+| 29 | []() | [Solution]() | Easy | 0 | --- |
+| 30 | []() | [Solution]() | Easy | 0 | --- |
+
 
 
 
