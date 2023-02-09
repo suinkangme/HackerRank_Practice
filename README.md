@@ -91,7 +91,7 @@
 | 6 | [Print Function](https://www.hackerrank.com/challenges/python-print/problem?isFullScreen=true) | [Solution](https://github.com/suinkangme/HackerRank_Practice/blob/main/PYTHON/EASY/Print%20Function.py) | Easy | 20 | end="" : print without newline |
 | 7 | [Mutations](https://www.hackerrank.com/challenges/python-mutations/problem?isFullScreen=true) | [Solution](https://github.com/suinkangme/HackerRank_Practice/blob/main/PYTHON/EASY/Mutations.py) | Easy | 10 | --- |
 | 8 | [Find a string](https://www.hackerrank.com/challenges/find-a-string/problem?isFullScreen=true&h_r=next-challenge&h_v=zen) | [Solution]() | Easy | 10 | --- |
-| 9 | []() | [Solution]() | Easy | 0 | --- |
+| 9 | [sWAP cASE](https://www.hackerrank.com/challenges/swap-case/problem?isFullScreen=true) | [Solution](https://github.com/suinkangme/HackerRank_Practice/blob/main/PYTHON/EASY/sWAP%20cASE.py) | Easy | 10 | --- |
 | 10 | []() | [Solution]() | Easy | 0 | --- |
 | 11 | []() | [Solution]() | Easy | 0 | --- |
 | 12 | []() | [Solution]() | Easy | 0 | --- |
