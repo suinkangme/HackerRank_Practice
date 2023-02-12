@@ -65,7 +65,7 @@
 | 39| [Weather Observation Station 18](https://www.hackerrank.com/challenges/weather-observation-station-18/problem?isFullScreen=true&h_r=next-challenge&h_v=zen) | [Solution](https://github.com/suinkangme/HackerRank_Practice/blob/main/SQL/MEDIUM/Weather%20Observation%20Station%2018.sql) | Medium | 25 | --- |
 | 40 | [Weather Observation Station 19](https://www.hackerrank.com/challenges/weather-observation-station-19/problem?isFullScreen=true&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen) | [Solution](https://github.com/suinkangme/HackerRank_Practice/blob/main/SQL/MEDIUM/Weather%20Observation%20Station%2019.sql) | Medium | 30 | SQRT : return the square root of a number , POWER |
 | 41 | [Symmetric Pairs](https://www.hackerrank.com/challenges/symmetric-pairs/problem?isFullScreen=true) | [Solution]() | Medium | 0 | --- |
-| 42 | [Placements]() | [Solution]() | Medium | 0 | --- |
+| 42 | [Placements](https://www.hackerrank.com/challenges/placements/problem?isFullScreen=true) | [Solution](https://github.com/suinkangme/HackerRank_Practice/blob/main/SQL/MEDIUM/Placements.sql) | Medium | 40 | subquery in from and use alias for main query  |
 | 43 | []() | [Solution]() | Medium | 0 | --- |
 | 44 | []() | [Solution]() | Medium | 0 | --- |
 | 45 | []() | [Solution]() | Medium | 0 | --- |
